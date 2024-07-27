@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import daysInYear from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-days-in-year@esm/index.mjs';
+import daysInYear from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-days-in-year@v0.2.2-esm/index.mjs';
 ```
 
 #### daysInYear( \[value] )
@@ -93,7 +93,7 @@ num = daysInYear( 2017 );
 <body>
 <script type="module">
 
-import daysInYear from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-days-in-year@esm/index.mjs';
+import daysInYear from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-days-in-year@v0.2.2-esm/index.mjs';
 
 var v;
 var i;
