@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import daysInYear from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-days-in-year@deno/mod.js';
+import daysInYear from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-days-in-year@v0.2.3-deno/mod.js';
 ```
 
 #### daysInYear( \[value] )
@@ -88,7 +88,7 @@ num = daysInYear( 2017 );
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-import daysInYear from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-days-in-year@deno/mod.js';
+import daysInYear from 'https://cdn.jsdelivr.net/gh/stdlib-js/time-days-in-year@v0.2.3-deno/mod.js';
 
 var v;
 var i;
